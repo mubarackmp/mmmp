@@ -6,11 +6,13 @@
     background-repeat: no-repeat;
 
 }
+
 #top1{
     background-color: black;
     opacity: 0.7;
     height: 100%;
     width: 100%;
+    
 }
 .navbar-toggler {
     margin-left: 845px;
@@ -59,4 +61,19 @@ img{
 }
 .top-banner__text{
     margin-top: 200px;
+}
+.middle .background{
+    height: 800px;
+    background-image: url("./images/secondbackground.jpg");
+    opacity: 9;
+
+        
+}
+.middle{
+    position: relative;
+}
+.card{
+    position: absolute;
+    bottom: 200px;
+    left: 300px;
 }
