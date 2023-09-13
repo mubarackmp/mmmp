@@ -1,0 +1,37 @@
+img{
+    width: 80%;
+    height: 700px;
+}
+h1{
+    text-align: cente r;
+    margin-top: 30px;
+
+}
+.card{
+    margin: 10px;
+    border-radius:20px;
+    height: 300px;
+
+}
+.card img{
+    width: 100%;
+    border-radius:20px;
+    height: 60%;
+}
+#haiii{
+    background-image: url("./Fold5ProductMarketing_1440x810.avif");
+    height: 700px;
+}
+.fb{
+    text-align: center;
+}
+.fb2{
+    text-align: center;
+}
+.fb3{
+    text-align: center;
+    margin-top: 500px;
+}
+.fb3 p{
+    margin-bottom: 0px;
+}
