@@ -91,3 +91,11 @@ img{
     width: 100%;
     border-radius: 25px;
 }
+
+.carousel  .carousel-inner .carousel-item{
+    height: 600px;
+    border-radius: 25px;
+}
+/* .adang .pulle{
+
+} */
