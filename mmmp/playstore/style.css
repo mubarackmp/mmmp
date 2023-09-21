@@ -33,8 +33,9 @@ a{
     color: green;
     border-bottom: 1px solid green;
 }
-.topleft a{
 
+.top2{
+    height: 90px;
 }
 .aa{
     color: rgb(87, 84, 84);
@@ -96,16 +97,88 @@ a{
 
 /* one by  one slide ends */
 .mid {
-    background-color: rgb(27, 27, 27);
+    background-color: rgb(24, 24, 24);
     padding: 0;
     border-radius: 15px;
 }
  .mid img{
     width: 100%;
-    height: 350px;
+    height: 380px;
     border-radius: 15px;
  }
  .mid .mid1{
-    
-    height: 350px;
+    padding-top: 50px;
+    padding-left: 25px;
+    height: 380px;
+    color: white;
  }
+ .mid .mid1 h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    margin-top: 40px;
+ }
+ /* heading for first carousal  */
+ .hffc{
+    margin-top: 20px;
+ }
+
+ /* carousal   */
+
+ .card{
+    border-radius: 25px;
+    margin-left: 10px;
+}
+.card img{
+    border-radius: 15px;
+}
+.sa{
+    display: flex;
+    height: 100px;
+    padding: 10px;
+  
+}
+.sa img{
+    width: 80px;
+    height: 80px;
+}
+.sa p{
+    height: 1px;
+    color: gray;
+    margin-left: 10px;
+}
+
+/* bottom  */
+.bottom{
+    border-top: 1px solid rgb(177, 176, 176);margin-top: 30px;
+}
+.bottom table tr{
+    margin: 130px;
+}
+.bottom2{
+    margin-top: 30px;
+}
+.bottom2 ul li{
+    display: inline;
+}
+#li1{
+    margin-left: 2px;
+}
+#li2{
+    margin-left: 92px;
+}
+#li2 img{
+    width: 25px;
+    height: 25px;
+}
+.bottom ul li{
+    margin-left: 30px;
+    list-style: none;
+    color: gray;
+    
+}
+.bottom2 ul li a{
+    font-size: 11px;
+    color: gray;
+    
+}
