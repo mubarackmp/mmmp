@@ -1,3 +1,14 @@
+.nvbr{
+    background-color: rgb(255, 255, 255);
+
+}
+/* forshadow  */
+.add-shadow{
+    box-shadow: rgb(151, 147, 147) 0px 3px 8px 0px
+  }
+
+/* forshadow ends  */
+
 .top{
     /* position: fixed; */
     /* top: 5px; */
@@ -127,6 +138,7 @@ a{
 
  .card{
     border-radius: 25px;
+    border: none;
     margin-left: 10px;
 }
 .card img{
@@ -135,7 +147,8 @@ a{
 .sa{
     display: flex;
     height: 100px;
-    padding: 10px;
+    /* padding: 10px; */
+    margin-top: 10px;
   
 }
 .sa img{
@@ -158,14 +171,18 @@ a{
 .bottom2{
     margin-top: 30px;
 }
+.bottom2 ul{
+    margin-left: 0;
+}
 .bottom2 ul li{
     display: inline;
 }
-#li1{
-    margin-left: 2px;
+
+.bottom .bottom2 #li1{
+    margin-left: 1px;
 }
-#li2{
-    margin-left: 92px;
+.bottom .bottom2 #li2{
+    margin-left: 320px;
 }
 #li2 img{
     width: 25px;
